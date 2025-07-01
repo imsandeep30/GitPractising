@@ -5,3 +5,4 @@ git status to check the status
 git commmit -m intial commit to comit
 git remote add origin https://github.com/imsandeep30/GitPractising.git to add repository
 git push -u origin master to add to repositroy
+to add content to the file we will use echo "content" >> filename.extension
