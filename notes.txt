@@ -1,1 +1,7 @@
-hello iam sandeep
+hello iam sandeepgit int
+git add . to the stagging stage
+git commit . to comit to git in local repository
+git status to check the status
+git commmit -m intial commit to comit
+git remote add origin https://github.com/imsandeep30/GitPractising.git to add repository
+git push -u origin master to add to repositroy
